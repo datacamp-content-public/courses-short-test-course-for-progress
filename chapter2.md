@@ -1,14 +1,13 @@
 ---
-title: 'Chapter 1'
-description: 'Chapter description goes here.'
-free_preview: true
+title: '2 Chap'
+description: ""
 ---
 
-## Example coding exercise
+## Copy of Copy of Copy of Example coding exercise
 
 ```yaml
 type: NormalExercise
-key: e8c1edbe67
+key: d9079ced84
 lang: python
 xp: 100
 skills: 2
@@ -93,11 +92,11 @@ success_msg("Well done! As you can see, you can do a lot of very powerful analys
 
 ---
 
-## Copy of Example coding exercise
+## Copy of Copy of Copy of Copy of Example coding exercise
 
 ```yaml
 type: NormalExercise
-key: 7b53e3687f
+key: a5d274e17d
 lang: python
 xp: 100
 skills: 2
@@ -182,11 +181,11 @@ success_msg("Well done! As you can see, you can do a lot of very powerful analys
 
 ---
 
-## Copy of Copy of Example coding exercise
+## Copy of Copy of Copy of Copy of Copy of Example coding exercise
 
 ```yaml
 type: NormalExercise
-key: 2c7bbe8055
+key: d22d1fe1e2
 lang: python
 xp: 100
 skills: 2
