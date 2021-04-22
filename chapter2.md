@@ -183,7 +183,7 @@ success_msg("Well done! As you can see, you can do a lot of very powerful analys
 
 ---
 
-## Insert exercise title here
+## Video exercise
 
 ```yaml
 type: VideoExercise
