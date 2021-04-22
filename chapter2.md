@@ -1,6 +1,6 @@
 ---
-title: '2 Chap'
-description: ""
+title: 2 Chap
+description: ''
 ---
 
 ## Copy of Copy of Copy of Example coding exercise
@@ -10,7 +10,8 @@ type: NormalExercise
 key: d9079ced84
 lang: python
 xp: 100
-skills: 2
+skills:
+  - 2
 ```
 
 In this example, you'll use spaCy's `Doc` and `Token` objects, and lexical attributes to find percentages in a text. You'll be looking for two subsequent tokens: a number and a percent sign. The English `nlp` object has already been created.
@@ -99,7 +100,8 @@ type: NormalExercise
 key: a5d274e17d
 lang: python
 xp: 100
-skills: 2
+skills:
+  - 2
 ```
 
 In this example, you'll use spaCy's `Doc` and `Token` objects, and lexical attributes to find percentages in a text. You'll be looking for two subsequent tokens: a number and a percent sign. The English `nlp` object has already been created.
@@ -188,7 +190,8 @@ type: NormalExercise
 key: d22d1fe1e2
 lang: python
 xp: 100
-skills: 2
+skills:
+  - 2
 ```
 
 In this example, you'll use spaCy's `Doc` and `Token` objects, and lexical attributes to find percentages in a text. You'll be looking for two subsequent tokens: a number and a percent sign. The English `nlp` object has already been created.
